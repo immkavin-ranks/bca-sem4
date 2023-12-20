@@ -1,5 +1,6 @@
-
+# Kavin | 20 December 2023
 def main():
+    """ generate a list of Fibonacci numbers and then calculate the factorial of each number in that list. """
     fib_list = []
     fact_list = []
     n = 10
